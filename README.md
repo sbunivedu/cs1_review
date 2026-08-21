@@ -179,9 +179,9 @@ for (int i = 0; i < 100; i += 5) {
 
 **15. Write a loop that calculates the sum:**
 
-[
+$$
 1 + 2 + 3 + \cdots + 100
-]
+$$
 
 **16. Write a program segment that counts how many digits are in a positive integer.**
 
@@ -728,7 +728,7 @@ Which grows faster as `n` becomes large?
 
 ```text
 n
-n log n
+n * log n
 n²
 2ⁿ
 n!
